@@ -5,11 +5,30 @@
 ![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026%2B)-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Engine-VPN%20Deduplication%20Filter-blue?style=for-the-badge)
+![Test Lab](https://img.shields.io/badge/Firebase%20Test%20Lab-Passed%20(Pixel%205)-success?style=for-the-badge&logo=firebase&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20letmese-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923171616345?text=Hi%20letmese%2C%20I%20am%20interested%20in%20your%20NetSpeedMonitor%20Android%20app.)
 
 ### *Precision Real-Time Floating Network Speed Meter with VPN-Duplication Filtering*
 
+</div>
+
+---
+
+## 📱 Live App Screenshots (Firebase Test Lab Robo Run)
+
+<div align="center">
+  <img src="screenshots/0.png" width="220" alt="Main Interface" />
+  <img src="screenshots/1.png" width="220" alt="Speed Overlay Settings" />
+  <img src="screenshots/2.png" width="220" alt="Floating Controls" />
+  <img src="screenshots/3.png" width="220" alt="Preferences Studio" />
+</div>
+
+<div align="center">
+  <img src="screenshots/4.png" width="220" alt="Theme Selector" />
+  <img src="screenshots/5.png" width="220" alt="Permission Setup" />
+  <img src="screenshots/6.png" width="220" alt="Speed Notifications" />
+  <img src="screenshots/7.png" width="220" alt="Diagnostics" />
 </div>
 
 ---
@@ -29,6 +48,7 @@ A common flaw in traditional speed monitors is that running a VPN causes recorde
 - 📊 **Status Bar & Notification HUD:** Live upload/download indicators directly in the Android notification shade.
 - 🔋 **Zero Battery Drain:** Efficient polling loops with low-power wake locks and automatic screen-off suspension.
 - 🔄 **Boot Persistence:** Automatically starts on device boot via `RECEIVE_BOOT_COMPLETED` background service.
+- 🧪 **Cloud Verified:** Automatically crawled and regression-tested on Google Pixel physical devices via Firebase Test Lab.
 
 ---
 

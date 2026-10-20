@@ -5,6 +5,10 @@ app/build/
 *.apk
 *.aab
 
+## Videos
+videos/
+*.mp4
+
 ## IDE
 .idea/
 .kotlin/

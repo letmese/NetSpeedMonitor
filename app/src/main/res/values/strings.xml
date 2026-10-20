@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Net Speed Monitor</string>
+    <string name="subtitle">Network speed with draggable overlay + live notification + status-bar accessibility overlay</string>
+    <string name="status_running">Status: Running</string>
+    <string name="status_stopped">Status: Stopped</string>
+
+    <string name="overlay_title">Overlay display</string>
+    <string name="overlay_summary">Show a draggable speed bubble on screen</string>
+    <string name="lock_title">Lock overlay position</string>
+    <string name="lock_summary">Prevent dragging the speed bubble</string>
+
+    <string name="accessibility_title">Status bar overlay</string>
+    <string name="accessibility_summary">Draw speed at the top of the screen like a status bar (accessibility overlay)</string>
+
+    <string name="notification_title">Service notification</string>
+    <string name="notification_summary">Keep an ongoing notification with live speed</string>
+    <string name="live_update_title">Live update icon</string>
+    <string name="live_update_summary">Promote the notification as a live update (Android 16 QPR2)</string>
+
+    <string name="start">Start monitor</string>
+    <string name="stop">Stop monitor</string>
+
+    <string name="notification_starting">Starting…</string>
+    <string name="notification_channel">Net speed service</string>
+    <string name="accessibility_service_description">This service displays the current network speed at the top of the screen using an accessibility overlay. No data is collected or transmitted.</string>
+
+    <string name="hint_overlay_permission">• Grant overlay permission to show the speed bubble.</string>
+    <string name="hint_accessibility_permission">• Enable accessibility in settings for the status-bar overlay.</string>
+    <string name="hint_overlay_locked">• Overlay is locked (drag disabled).</string>
+</resources>
